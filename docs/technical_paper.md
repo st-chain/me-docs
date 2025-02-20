@@ -1,2 +1,0 @@
-# Me-hub technical paper
-

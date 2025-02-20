@@ -2,25 +2,28 @@
 
 * [Welcome](README.md)
 
-## Getting Started
-
-* [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
-
 ***
 
-## 🌐me-hub 
+## 🌐 me-hub
 
-* ✍️[What is me-hub](docs/what-is-me-hub.md) 
-* 📄[Me-hub technical paper](docs/technical_paper.md) 
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [OpenAPI](basics/openapi.md)
-* [Integrations](basics/integrations.md)
+* [Introduction](paper/introduction.md)
+* 📄[Me-Hub White Paper](paper/white_paper.md)
+* 📄[Me-Hub Technical Paper](paper/technical_paper.md)
+* [DID(Decentralized Identifier)](modules/did/README.md)
+  * [DID](modules/did/did.md)
+  * [KYC](modules/did/kyc.md)
+* [NFT](modules/nft.md)
+* [Regions](modules/region.md)
+* [Validators](modules/validator.md)
+* [Rollapps](modules/rollapp.md)
+* [Sequencer](modules/sequencer.md)
+* [Group](modules/group.md)
+* [EVM](modules/evm.md)
+* [Data Availability](data_availability/da.md)
+* [IBC(Inter-Blockchain Communication)](modules/ibc.md)
+* [Setup](setup/mehub.md)
 
 ***
-
-* 🌍[Go to website](https://www.mec.me/) 
-* 🐙[Go to github](https://github.com/st-chain/) 
+* [🌍Go to website](https://www.mec.me/) 
+* [🐙Go to github](https://github.com/st-chain/) 
+***
