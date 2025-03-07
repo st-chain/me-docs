@@ -1,1 +1,0 @@
-# KYC(Know Your Customer)
